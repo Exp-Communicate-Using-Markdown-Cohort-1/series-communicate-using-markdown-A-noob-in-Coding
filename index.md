@@ -6,3 +6,6 @@ int main()
 {
 std::cout<<"Hello world!";
 }
+- [x] Turn on Github pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
